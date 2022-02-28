@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis
 
 # Overview of Project
 This project can be used to easily determine yearly stock Volume and Return Percentages for various Stocks on a large Data Sheet. Data for other stocks, as well as other years may be added for additional calculation. 
